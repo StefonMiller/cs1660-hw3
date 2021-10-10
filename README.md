@@ -11,5 +11,5 @@ All images and additional files can be found in the NoSQL folder
 
 ![Query Output](./NoSQL/query_output.PNG)
 
-3. DPython and CSV files can be found in the NoSQL folder
+3. Python and CSV files can be found in the NoSQL folder
 
