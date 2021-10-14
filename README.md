@@ -1,8 +1,6 @@
 # CS1660 Homework 3
 All images and additional files can be found in the NoSQL folder
 
-## Container 1
-
 1. Screenshot of query:
 
 ![Query](./NoSQL/query.PNG)
@@ -11,5 +9,5 @@ All images and additional files can be found in the NoSQL folder
 
 ![Query Output](./NoSQL/query_output.PNG)
 
-3. Python and CSV files can be found in the NoSQL folder
+3. Python and CSV files can be found in the NoSQL folder. I omitted the AWS keys from my python files due to security concerns
 
